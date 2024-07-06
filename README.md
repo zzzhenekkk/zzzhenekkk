@@ -1,62 +1,31 @@
 ## Hi there 👋
 
+# Hi, I'm Evgeniy
 
-# Привет, я [Евгений]
+## Tech Stack and Experience
 
-Я разработчик c опытом программирования на Go, C++, С и Java. 
+- **Programming Languages**: Golang, C++, Java
+- **Databases**: SQL, PostgreSQL, Elasticsearch
+- **Testing**: Unit tests
+- **Algorithms and Data Structures**: Basic algorithms and data structures
+- **System Administration**: Bash, Linux
+- **Containerization and CI/CD**: Docker, Docker Compose, CI/CD processes
+- **Network Technologies**: Principles of network operation, main network protocols
 
+I graduated from the 21 programming school by Sberbank. In Go, I implemented authentication systems with JWT, gRPC services, secure HTTP(S) APIs, asynchronous communication systems based on NATS Streaming and Kafka, order processing services with PostgreSQL, and search systems with Elasticsearch. I optimized application performance using Swagger, golint, go vet. I designed microservice architectures. In C++, I developed interactive applications, custom containers, and matrices. I configured Docker, CI/CD with GitLab-runner. Core stack: Docker, Kubernetes, PostgreSQL, NATS Streaming, Kafka, and Elasticsearch.
 
-## Технологический стек
+## My Projects
 
-- **Языки программирования**: Golang, C++, Java
-- **Базы данных**: SQL, PostgreSQL, Elasticsearch
-- **Тестирование**: Unit тесты
-- **Алгоритмы и структуры данных**: Базовые алгоритмы и структуры данных
-- **Системное администрирование**: Bash, Linux
-- **Контейнеризация и CI/CD**: Docker, Docker Compose, CI/CD процессы
-- **Сетевые технологии**: Принципы работы сетей, основные сетевые протоколы
+### Tags
 
-## Обо мне
+- [Golang](https://github.com/search?q=user%3Azzzhenekkk+topic%3Agolang&type=repositories)
+- [C++](https://github.com/search?q=user%3Azzzhenekkk+topic%3Acpp&type=repositories)
+- [C](https://github.com/search?q=user%3Azzzhenekkk+topic%3Ac&type=repositories)
+- [SQL](https://github.com/search?q=user%3Azzzhenekkk+topic%3Asql&type=repositories)
+- [DevOps](https://github.com/search?q=user%3Azzzhenekkk+topic%3Adevops&type=repositories)
 
-Прошел обучение в школе программирования 21 от Сбера. Имею опыт разработки на Go, C++ и C. В Go реализовал:
+## Contact Me
 
-- Системы аутентификации с JWT
-- gRPC сервисы
-- Защищенные HTTP(S) API
-- Асинхронные системы коммуникации на базе NATS Streaming и Kafka
-- Сервисы обработки заказов с PostgreSQL
-- Поисковые системы с Elasticsearch
-
-Оптимизировал производительность приложений, использовал Swagger, golint, go vet. Проектировал микросервисные архитектуры. В C++ разрабатывал интерактивные приложения, пользовательские контейнеры и матрицы. Настраивал Docker, CI/CD с GitLab-runner. Основной стек: Docker, Kubernetes, PostgreSQL, NATS Streaming, Kafka и Elasticsearch.
-
-## Мои проекты
-
-### Теги
-
-- [Golang](https://github.com/search?q=user%3Aваш_логин+topic%3Agolang&type=repositories)
-- [C++](https://github.com/search?q=user%3Aваш_логин+topic%3Acpp&type=repositories)
-- [C](https://github.com/search?q=user%3Aваш_логин+topic%3Ac&type=repositories)
-- [SQL](https://github.com/search?q=user%3Aваш_логин+topic%3Asql&type=repositories)
-- [DevOps](https://github.com/search?q=user%3Aваш_логин+topic%3Adevops&type=repositories)
-
-## Связаться со мной
-
-- [LinkedIn](ваша_ссылка)
-- [GitHub](ваша_ссылка)
-- [Email](mailto:ваша_почта)
-
-
-<!--
-**zzzhenekkk/zzzhenekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](your_linkedin_profile)
+- [GitHub](https://github.com/zzzhenekkk)
+- [Email](mailto:89057242425@mail.ru)
